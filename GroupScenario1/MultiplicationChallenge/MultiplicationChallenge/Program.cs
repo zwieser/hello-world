@@ -60,6 +60,8 @@ namespace MultiplicationChallenge
          * 204
          * 024
          * 
+         * SHES A DINNER PLATE DINNER PLATE SHES A DINNER PLATE
+         *
          */
 
         static void NumberResults(int number1, int number2)
